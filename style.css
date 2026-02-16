@@ -6,7 +6,7 @@
  .container{
     width:100%;
     HEIGHT:100vh;
-    background-color: maroon;
+    background-color: rgb(0, 0, 0);
     display:flex;
     justify-content:center;
     align-items:center;
@@ -15,15 +15,15 @@
   .weather_container{
         color: white
   }
-  .temp{
-    font: size 5rem;
+  .temp h1 {
+    font: size 4rem;
   }
   .time_location{
     font-size: 2rem;
   }
   .condition{
-    margin:0.5rem;
-    margin-left: 0.2rem;
+    margin:2rem;
+    margin-left: 1rem;
   }
   nav{
     height:100px;
